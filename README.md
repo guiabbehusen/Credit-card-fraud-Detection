@@ -1,4 +1,6 @@
-Credit Card Fraud Detection 💳🧠
+<h1 style="font-size: 36px; font-weight: bold; text-transform: uppercase;">
+  Credit Card Fraud Detection
+</h1>
 
 Este projeto tem como objetivo a detecção de fraudes em transações com cartões de crédito utilizando técnicas de Machine Learning. Foram aplicados modelos de DecisionTreeClassifier, SVM e redes neurais com TensorFlow e Keras, combinados com estratégias de pré-processamento e balanceamento de dados, alcançando excelentes métricas de desempenho. 
 
